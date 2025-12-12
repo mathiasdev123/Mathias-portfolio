@@ -1,13 +1,10 @@
 header {
   background: linear-gradient(rgb(0, 0, 0), rgb(255, 0, 0));
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 body{
   background: rgb(255, 0, 0);
-}
-
-*{
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
