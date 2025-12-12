@@ -22,4 +22,8 @@ h1, h2{
   background: rgb(209 0 0);
   margin: auto;
   width: 50%;
+  border-radius: 10px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border: 10px;
 }
