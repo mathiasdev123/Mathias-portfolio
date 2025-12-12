@@ -1,15 +1,17 @@
-.pegarh1 {
-  background: linear-gradient(rgb(0, 0, 0), rgb(255, 0, 0));
-  width: 100%;
-  margin: 0;
-  padding: 0;
-}
-
 body{
   background: rgb(255, 0, 0);
   margin: 0;
 }
 
+.pegarh1{
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(rgb(0, 0, 0), transparent);
+  margin: 0;
+  width: 100%
+}
+
 h1{
   margin: 0;
+  padding: 20px;
 }
